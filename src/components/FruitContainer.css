@@ -1,0 +1,14 @@
+.fruit-container{
+    display: flex;
+    align-items: center;
+    padding:10px;
+    margin:20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    max-width: 250px;
+}
+
+button{
+    margin:10px;
+    max-height:20px;
+}
